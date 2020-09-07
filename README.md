@@ -8,11 +8,11 @@
 
 ---
 
-<div display='inline-block'>
-  <div>
+<div align='center'>
+  <div display='inline'>
     ![Alexander474's github stats](https://github-readme-stats.vercel.app/api?username=alexander474&show_icons=true&count_private=true&theme=dark)
   </div>
-  <div>
+  <div display='inline'>
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander474)
   </div>
 </div>
