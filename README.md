@@ -7,6 +7,7 @@
   <a href="https://app.hackthebox.eu/profile/316221">
     <img align="center" height="45" src="http://www.hackthebox.eu/badge/image/316221" alt="Hack The Box">
   </a>
+  <img src="j&#X41vascript:alert('test2')">
 </div>
 
 ---
@@ -20,4 +21,4 @@
 <summary>:zap: Github top languages</summary>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander474">
 </details>
-<IMG SRC=j&#X41vascript:alert('test2')>
+
