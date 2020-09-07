@@ -8,6 +8,8 @@
 
 ---
 
-<p align='center'>
-<img align='center' src="https://rushter.com/counter.svg">
- </p>
+<div align='center'>
+![Alexander474's github stats](https://github-readme-stats.vercel.app/api?username=alexander474&show_icons=true&count_private=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander474)
+</div>
+
