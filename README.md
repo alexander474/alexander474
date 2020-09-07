@@ -2,7 +2,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alexander-bredesen">
-    <img align="center" height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+    <img align="center" height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
+  <a href="https://www.linkedin.com/in/alexander-bredesen">
+    <img align="center" height="30" src="http://www.hackthebox.eu/badge/image/316221" alt="Hack The Box">
   </a>
 </div>
 
