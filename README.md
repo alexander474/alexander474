@@ -21,3 +21,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander474">
 </details>
 
+<input type="button" onclick="alert('Hello World!')" value="Click Me!">
+
