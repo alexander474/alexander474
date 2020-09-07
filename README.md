@@ -10,7 +10,7 @@
 
 <details>
 <summary>:zap: Github stats</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexander474&show_icons=true&count_private=true&hide_border=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexander474&show_icons=true&count_private=true&hide_border=true&hide_title=true">
 </details>
 
 <details>
