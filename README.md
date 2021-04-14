@@ -10,7 +10,7 @@
     <img align="center" height="40" src="http://www.hackthebox.eu/badge/image/316221" alt="Hack The Box">
   </a>
   <a href="https://tryhackme.com/p/unachievable">
-    <img align="center" height="40" src="https://tryhackme-badges.s3.amazonaws.com/unachievable.png" alt="TryHackMe">
+    <script src="https://tryhackme.com/badge/429948"></script>
   </a>
 </div>
 
